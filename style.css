@@ -1,0 +1,21 @@
+body {
+    background-color: #BEDCFA;
+    background-image: url('record.png');
+    background-position: -80px -96px;
+}
+
+h1{
+  background:#212F3C;
+  color: #ffffff;
+  text-align: center;
+}
+h2{
+background:#212F3C;
+  color: #ffffff;
+  text-align: center;
+  }
+p {
+background:#212F3C;
+  color: #ffffff;
+  text-align: center;
+}
